@@ -1,0 +1,4 @@
+streamlit==1.26.0       # Biblioteca principal para a interface do usuário
+pdfplumber==0.5.28      # Para leitura e extração de dados de arquivos PDF
+pandas==2.1.1           # Manipulação de dados e criação de DataFrames
+xlsxwriter==3.1.2       # Para exportar dados em formato Excel
